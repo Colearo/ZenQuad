@@ -1,0 +1,5 @@
+data/SOF_dev.h.i
+data/SOFBlock.cpp.i
+data/SOFBlock.h.i
+data/SOF_block.cpp.i
+data/SOF_dev_stm32_f4xx.cpp.i
